@@ -1,0 +1,22 @@
+html {
+  font-family: sans-serif;
+  position: relative;
+  min-height: 100%;
+}
+body,p {
+  margin: 0;
+}
+header{
+  width: 750px;
+  height: 80px;
+  border-style: solid;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+#divA{
+  height: 600px;
+  width: 750px;
+  border-style: solid;
+  margin-top: 20px;
+  margin-left: 20px;
+}

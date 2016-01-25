@@ -1,0 +1,30 @@
+html {
+  font-family: sans-serif;
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin: 0;
+  padding:0;
+  width:920px;
+}
+header{
+  width: 650px;
+  height: 80px;
+  border-style: solid;
+  margin: 20px 200px 20px 20px;
+}
+#divA{
+  height: 600px;
+  width: 650px;
+  border-style: solid;
+  margin: 20px;
+  float: left;
+}
+#divB{
+  height: 600px;
+  width: 200px;
+  border-style: solid;
+  margin-top: 20px;
+  float: right;
+}
